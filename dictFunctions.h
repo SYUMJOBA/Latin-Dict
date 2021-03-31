@@ -1,5 +1,5 @@
-#include <iostream>
-#include <string>
+#include "data.h"
+
 using namespace std;
 
 void JustAVeryRandomArrayTest(){
@@ -13,3 +13,4 @@ void JustAVeryRandomArrayTest(){
     
     for (int i = 0; i <10; i++) cout << MyArray[i] << endl;
 }
+
